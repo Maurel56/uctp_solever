@@ -1,0 +1,151 @@
+enseignant_id,nom,departement,grade,charge_max,disponibilites
+E000,Enseignant_0,PHYS,PR,6,"[ True False  True  True  True False False  True False False  True False
+  True  True False  True False False False False False  True  True  True
+  True  True  True  True  True  True]"
+E001,Enseignant_1,MATH,MCF,12,"[False  True  True  True  True False  True  True  True  True  True  True
+  True False  True  True False  True  True False  True False False  True
+  True False False  True False  True]"
+E002,Enseignant_2,INFO,PR,9,"[ True  True  True False  True  True  True False  True False False  True
+  True  True  True False False  True False  True False  True  True  True
+  True False  True False False False]"
+E003,Enseignant_3,BIO,MCF,12,"[ True  True  True  True False False False  True  True  True False False
+ False  True False  True  True  True  True  True False  True  True False
+  True False  True  True False  True]"
+E004,Enseignant_4,PHYS,MCF,9,"[False  True  True False  True False  True  True False  True  True False
+ False False  True  True  True  True  True  True False  True  True  True
+  True  True  True  True  True  True]"
+E005,Enseignant_5,BIO,MCF,9,"[ True  True  True False False  True  True  True  True False  True  True
+ False False  True  True False False  True False  True False  True False
+ False  True False False  True False]"
+E006,Enseignant_6,MATH,MCF,12,"[ True  True  True False False  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True False  True False  True  True
+  True  True  True  True  True  True]"
+E007,Enseignant_7,CHIM,PR,6,"[ True  True  True False False  True  True  True  True False  True  True
+ False  True  True False  True  True False  True False False  True False
+ False False  True False  True  True]"
+E008,Enseignant_8,MATH,PR,9,"[ True  True  True  True  True  True  True  True  True False  True False
+  True False False  True False False  True  True False  True  True  True
+  True False  True  True  True False]"
+E009,Enseignant_9,MATH,MCF,12,"[ True  True  True  True  True  True False  True  True  True  True False
+  True False  True  True  True False  True  True  True  True False  True
+ False  True  True False False  True]"
+E010,Enseignant_10,CHIM,PR,9,"[ True  True  True  True False False  True False  True  True  True False
+ False False  True False False  True  True  True  True False  True False
+  True  True  True False  True  True]"
+E011,Enseignant_11,PHYS,MCF,9,"[ True  True  True  True False  True False  True False False  True  True
+  True  True False False  True False  True  True  True False  True False
+ False False False  True False  True]"
+E012,Enseignant_12,INFO,MCF,12,"[ True  True  True  True False  True False False  True  True False  True
+ False  True  True False  True  True  True False  True False  True False
+ False  True  True  True  True  True]"
+E013,Enseignant_13,MATH,MCF,12,"[False  True  True False False  True False  True  True  True  True False
+ False  True  True  True  True  True  True False  True False  True  True
+  True  True False  True  True  True]"
+E014,Enseignant_14,CHIM,MCF,9,"[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True False False]"
+E015,Enseignant_15,CHIM,MCF,12,"[False  True False  True  True False  True  True False  True  True False
+  True  True  True  True False  True False  True False False  True  True
+  True  True False  True False  True]"
+E016,Enseignant_16,MATH,MCF,9,"[ True False  True  True False  True False  True False  True  True  True
+  True  True  True  True  True  True  True  True False False  True  True
+  True False  True  True False  True]"
+E017,Enseignant_17,MATH,MCF,9,"[False  True  True  True  True False  True  True  True False False False
+  True  True False  True False  True False  True  True False False  True
+  True  True False  True  True False]"
+E018,Enseignant_18,INFO,PR,9,"[False  True  True  True False  True  True  True  True  True  True  True
+ False  True  True  True  True  True  True  True  True False False False
+  True  True  True  True  True False]"
+E019,Enseignant_19,INFO,MCF,12,"[ True False  True  True  True  True  True  True  True  True  True  True
+  True False False  True  True  True False  True  True  True  True  True
+  True False False  True False False]"
+E020,Enseignant_20,CHIM,PR,12,"[ True  True  True  True  True False  True False  True  True  True  True
+  True  True False False  True False  True False  True  True  True  True
+ False  True  True False  True  True]"
+E021,Enseignant_21,PHYS,MCF,6,"[False  True  True  True  True  True  True  True False  True  True  True
+  True  True False  True  True False False  True  True False  True  True
+ False False  True False False False]"
+E022,Enseignant_22,CHIM,ATER,12,"[ True  True  True  True False False  True  True  True  True False  True
+  True  True False  True  True False  True  True  True  True  True  True
+ False  True  True  True  True  True]"
+E023,Enseignant_23,INFO,PR,9,"[ True False  True  True  True  True False  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True False  True False
+ False  True False False False  True]"
+E024,Enseignant_24,BIO,ATER,9,"[ True  True  True  True  True  True  True  True  True False  True  True
+  True  True False  True  True  True False False  True False  True  True
+  True  True False False  True  True]"
+E025,Enseignant_25,INFO,ATER,9,"[ True  True False False  True  True  True  True  True False  True False
+  True  True  True  True  True  True  True False False False  True False
+ False  True  True  True  True  True]"
+E026,Enseignant_26,CHIM,MCF,12,"[ True  True  True  True  True False  True  True  True  True  True  True
+ False  True  True  True  True False  True False False  True  True  True
+  True  True False  True  True False]"
+E027,Enseignant_27,BIO,MCF,9,"[ True  True False  True False False False  True  True  True  True  True
+  True  True  True  True  True False  True False False  True  True  True
+ False False False  True  True  True]"
+E028,Enseignant_28,PHYS,MCF,9,"[ True  True  True False  True False  True  True  True  True  True  True
+  True  True  True  True  True False  True  True  True False False  True
+  True  True  True  True False  True]"
+E029,Enseignant_29,PHYS,ATER,9,"[False  True  True  True False  True  True  True  True False  True  True
+  True  True False False False  True  True  True False  True False False
+  True  True  True  True  True  True]"
+E030,Enseignant_30,BIO,MCF,12,"[False  True  True False  True  True  True  True  True False  True False
+  True  True  True  True  True  True  True  True False  True False False
+  True  True  True  True  True  True]"
+E031,Enseignant_31,INFO,PR,6,"[ True False  True  True  True False False False  True  True False  True
+ False  True  True False False  True  True False False  True  True False
+  True  True  True False  True  True]"
+E032,Enseignant_32,CHIM,MCF,12,"[ True  True  True  True False False  True False  True  True  True False
+  True  True  True  True False False  True  True  True  True  True False
+  True  True  True  True  True False]"
+E033,Enseignant_33,INFO,PR,9,"[ True  True  True  True  True  True  True False  True  True  True  True
+ False False  True False False False False  True False  True False  True
+  True  True False  True  True  True]"
+E034,Enseignant_34,INFO,MCF,9,"[False  True  True False False  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True False False
+  True  True False False False  True]"
+E035,Enseignant_35,CHIM,ATER,12,"[ True  True False  True  True  True  True  True  True False  True  True
+ False False False  True  True False  True  True False  True  True False
+ False  True  True False False  True]"
+E036,Enseignant_36,MATH,MCF,6,"[False False  True  True  True  True False  True  True  True False  True
+  True False False False  True  True False  True False  True False  True
+  True  True  True False  True False]"
+E037,Enseignant_37,INFO,PR,12,"[False  True  True  True  True False False False  True  True False  True
+  True  True False  True False  True  True  True  True  True  True  True
+ False False False  True  True False]"
+E038,Enseignant_38,INFO,MCF,9,"[ True  True False  True  True  True False False  True False False False
+ False  True  True  True  True False False  True False  True  True  True
+  True False  True  True  True False]"
+E039,Enseignant_39,BIO,ATER,9,"[False  True False  True  True  True  True  True  True False  True False
+  True False False False  True False  True  True False False  True  True
+  True  True  True  True False  True]"
+E040,Enseignant_40,PHYS,MCF,6,"[ True False False  True  True  True  True  True False  True False False
+ False False False  True  True  True False  True False  True  True False
+  True  True False False  True  True]"
+E041,Enseignant_41,CHIM,MCF,9,"[ True False  True  True False False  True  True  True False  True False
+  True  True  True False  True False  True False  True  True  True  True
+ False False  True  True  True  True]"
+E042,Enseignant_42,BIO,MCF,6,"[False False False False  True  True  True False  True False  True False
+ False  True  True  True  True False  True  True  True False  True  True
+  True  True False  True  True  True]"
+E043,Enseignant_43,PHYS,PR,12,"[ True  True  True False  True  True  True  True  True False  True  True
+  True  True  True  True  True  True False  True  True False  True  True
+ False  True  True  True  True  True]"
+E044,Enseignant_44,BIO,PR,9,"[ True  True  True  True  True  True  True False False  True  True  True
+ False False  True  True  True False  True False  True  True  True  True
+ False  True  True  True False  True]"
+E045,Enseignant_45,BIO,MCF,9,"[ True  True  True False False  True  True False False  True  True False
+ False False  True False False False  True  True  True False  True  True
+  True  True False  True False False]"
+E046,Enseignant_46,PHYS,MCF,12,"[ True False  True  True  True  True False  True False False False False
+  True  True False False  True  True  True  True False  True  True  True
+  True  True  True  True  True  True]"
+E047,Enseignant_47,INFO,ATER,6,"[ True  True  True False False  True  True  True  True  True  True False
+  True False  True False  True  True  True  True False  True  True  True
+  True  True  True  True False  True]"
+E048,Enseignant_48,CHIM,PR,9,"[ True  True  True False False  True  True  True False False False False
+  True  True  True  True  True  True False  True  True  True  True  True
+  True False  True  True  True  True]"
+E049,Enseignant_49,BIO,PR,9,"[ True False False False  True  True  True  True  True False  True False
+ False  True  True  True  True False False False  True  True  True  True
+  True False False False  True  True]"
